@@ -64,9 +64,9 @@ Security knowledge should help people learn, defend, verify, repair, document, a
 
 ## Infrastructure Support
 
-Special thank you to **ClouDNS** for supporting reliable DNS infrastructure for BCBC projects.
+Special thank you to **[ClouDNS](https://www.cloudns.net/)** for supporting reliable DNS infrastructure and operational stability for BCBC projects.
 
+[<img width="160" height="80" alt="ClouDNS logo" src="https://github.com/user-attachments/assets/3d379a71-292a-4dec-9703-635c809c22e5" />](https://www.cloudns.net/)
 
-<img width="96" height="48" alt="cloudns-logo-crop" src="https://github.com/user-attachments/assets/3d379a71-292a-4dec-9703-635c809c22e5" />
 
 If something promotes unauthorized access, credential theft, stealth, harassment, or harm, it does not belong here.
